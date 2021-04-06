@@ -2523,7 +2523,7 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/gameinhtml_atlas_.png", id:"gameinhtml_atlas_"}
+		{src:"gameinhtml_atlas_.png", id:"gameinhtml_atlas_"}
 	],
 	preloads: []
 };
